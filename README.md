@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd Ayan</h1>
+<h3 align="center"> AI/ML Developer | Full Stack Developer | Builder from India </h3>
 
-<!--
-**iayaannn/iayaannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Projects
+- Thyroid Cancer Recurrence System (92% Accuracy)
+- Early Detect – AI Disease Prediction Web App
+- Real-Time Interview Practice AI
+- Automation Workflows using n8n
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,express,mongodb,mysql,postgresql,html,css,tailwind,git,github,docker,postman,npm,vscode,sklearn&theme=dark" />
+</a>
