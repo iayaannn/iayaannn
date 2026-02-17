@@ -2,7 +2,7 @@
 <h3 align="center"> AI/ML Developer | Full Stack Developer | Builder from India </h3>
 
 ### Projects
-- Thyroid Cancer Recurrence System (92% Accuracy)
+- [Thyroid Cancer Recurrence System (92% Accuracy)](https://thyroid-cancer-recurrence-using-ml.onrender.com)
 - Early Detect – AI Disease Prediction Web App
 - Real-Time Interview Practice AI
 - Automation Workflows using n8n
